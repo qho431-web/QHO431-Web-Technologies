@@ -68,7 +68,7 @@ mindmap
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](https://ff-quizzes.netlify.app/web/quiz/17)
+[Pre-lecture quiz](https://ff-quizzes.netlify.app/en/web/quiz/17/)
 
 ## Getting Started with CSS
 
