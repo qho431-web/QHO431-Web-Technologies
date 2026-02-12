@@ -21,7 +21,7 @@ journey
       Glass reflections: 5: Student
 ```
 
-![Introduction to CSS](../../sketchnotes/webdev101-css.png)
+![Introduction to CSS](https://github.com/qho431-web/QHO431-Web-Technologies/blob/Week-2--CSS/webdev101-css.png)
 
 Remember how your HTML terrarium looked quite basic? CSS is where we transform that plain structure into something visually appealing.
 
