@@ -14,13 +14,13 @@ journey
     section Semantics
       Use proper tags: 4: Student
       Enhance accessibility: 5: Student
-      Build terrarium: 5: Student
+      Build Website: 5: Student
 ```
 
 ![Introduction to HTML](https://github.com/qho431-web/QHO431-Web-Technologies/blob/main/webdev101-html.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
-HTML, or HyperText Markup Language, is the foundation of every website you've ever visited. Think of HTML as the skeleton that gives structure to web pages – it defines where content goes, how it's organized, and what each piece represents. While CSS will later "dress up" your HTML with colors and layouts, and JavaScript will bring it to life with interactivity, HTML provides the essential structure that makes everything else possible.
+**HTML**, or HyperText Markup Language, is the foundation of every website you've ever visited. Think of HTML as the skeleton that gives structure to web pages – it defines where content goes, how it's organized, and what each piece represents. While CSS will later "dress up" your HTML with colors and layouts, and JavaScript will bring it to life with interactivity, HTML provides the essential structure that makes everything else possible.
 
 In this lesson, you'll create the HTML structure for a virtual terrarium interface. This hands-on project will teach you fundamental HTML concepts while building something visually engaging. You'll learn how to organize content using semantic elements, work with images, and create the foundation for an interactive web application.
 
@@ -79,7 +79,7 @@ You'll create a dedicated folder for your terrarium project and add your first H
 4. In the Explorer pane, click the "New File" icon
 5. Name your file `index.html`
 
-![VS Code Explorer showing new file creation](images/vs-code-index.png)
+![VS Code Explorer showing new file creation](vs-code-index.png)
 
 **Option 2: Using Terminal Commands**
 ```bash
@@ -97,7 +97,7 @@ code index.html
 
 > 💡 **Pro Tip**: The filename `index.html` is special in web development. When someone visits a website, browsers automatically look for `index.html` as the default page to display. This means a URL like `https://mysite.com/projects/` will automatically serve the `index.html` file from the `projects` folder without needing to specify the filename in the URL.
 
-## Understanding HTML Document Structure
+# Understanding HTML Document Structure
 
 Every HTML document follows a specific structure that browsers need to understand and display correctly. Think of this structure like a formal letter – it has required elements in a particular order that help the recipient (in this case, the browser) process the content properly.
 
@@ -581,6 +581,6 @@ After completing this lesson, you now have:
 **Next Steps**: Your HTML structure is ready for CSS styling! The semantic foundation you've built will make the next lesson much easier to understand.
 
 
-## Assignment
+## Seminar and Assignment to Complete
 
 [Practice your HTML: Build a blog mockup](assignment.md)
