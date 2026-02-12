@@ -583,4 +583,4 @@ After completing this lesson, you now have:
 
 ## Seminar and Assignment to Complete
 
-[Practice your HTML: Build a blog mockup](assignment.md)
+[Practice your HTML: Build a blog mockup]([SEMINAR.md](https://github.com/qho431-web/QHO431-Web-Technologies/blob/main/SEMINAR.md))
