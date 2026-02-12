@@ -1,4 +1,4 @@
-## Basics of GIT for web-dev beginners👶
+## Basics of GIT 
 
 
 ## What is `Git`?
