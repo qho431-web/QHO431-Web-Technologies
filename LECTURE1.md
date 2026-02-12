@@ -17,7 +17,7 @@ journey
       Build Website: 5: Student
 ```
 
-![Introduction to HTML](https://github.com/qho431-web/QHO431-Web-Technologies/blob/main/webdev101-html.png)
+![Introduction to HTML]([https://github.com/qho431-web/QHO431-Web-Technologies/blob/main/webdev101-html.png](https://github.com/qho431-web/QHO431-Web-Technologies/blob/Week1-Intro-to-HTML/webdev101-html.png))
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 **HTML**, or HyperText Markup Language, is the foundation of every website you've ever visited. Think of HTML as the skeleton that gives structure to web pages – it defines where content goes, how it's organized, and what each piece represents. While CSS will later "dress up" your HTML with colors and layouts, and JavaScript will bring it to life with interactivity, HTML provides the essential structure that makes everything else possible.
