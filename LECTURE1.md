@@ -219,7 +219,7 @@ Before adding images to your HTML, you'll need to organize your project files pr
 
 **First, set up your images:**
 1. Create a folder called `images` inside your terrarium project folder
-2. Download the plant images from the [solution folder](../solution/images) (14 plant images total)
+2. Download the plant images from the week 1 branch folder(14 plant images total)
 3. Copy all plant images into your new `images` folder
 
 ### Task: Create the Plant Display Layout
