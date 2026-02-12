@@ -15,11 +15,11 @@ Please make sure you have successfully completed the following setup steps:
 
 ### For best Github Advice Watch [Andrei Neagoie Youtube Tutorial](https://www.youtube.com/watch?v=JN63v_czZqI).
 
-# [Design Resources for Developers](https://github.com/Amytrainer/design-resources-for-developers), please fork to the repository. 
+###[Design Resources for Developers](https://github.com/Amytrainer/design-resources-for-developers), please fork to the repository. 
 
-# Colour picer extentions:https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en
+###[Colour picer extentions](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en)
 
-# What Font extention:https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en
+###[What Font extention](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en)
 
 
 
