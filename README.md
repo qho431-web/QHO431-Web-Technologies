@@ -590,7 +590,8 @@ Now test your interactive terrarium! Open your `index.html` file in a web browse
 - **Cross-device support**: Works on desktop and mobile
 - **Performance conscious**: No memory leaks or redundant calculations
 
-![finished terrarium](./images/terrarium-final.png)
+![finished terrarium](./images/terrarium-final-d.png)
+
 
 ---
 
@@ -761,4 +762,4 @@ After completing this lesson, you now have:
 
 ## Seminar
 
-[Work a bit more with the DOM](assignment.md)
+[Work a bit more with the DOM](seminar.md)
