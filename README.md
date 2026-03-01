@@ -17,7 +17,7 @@ journey
       Complete terrarium: 5: Student
 ```
 
-![DOM and a closure](../../sketchnotes/webdev101-js.png)
+![DOM and a closure](https://github.com/qho431-web/QHO431-Web-Technologies/blob/Week3-JS-and-DOM/webdev101-js.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 Welcome to one of the most engaging aspects of web development - making things interactive! The Document Object Model (DOM) is like a bridge between your HTML and JavaScript, and today we'll use it to bring your terrarium to life. When Tim Berners-Lee created the first web browser, he envisioned a web where documents could be dynamic and interactive - the DOM makes that vision possible.
