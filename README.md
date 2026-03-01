@@ -762,4 +762,4 @@ After completing this lesson, you now have:
 
 ## Seminar
 
-[Work a bit more with the DOM](seminar.md)
+[Work a bit more with the DOM](https://github.com/qho431-web/QHO431-Web-Technologies/blob/Week3-JS-and-DOM/Seminar.md)
