@@ -472,7 +472,7 @@ Now comes the testing phase! Will it work as expected? Did we miss something? He
 
 Click on `start`, and start typing away! It should look a little like the animation we saw before.
 
-![Animation of the game in action](../images/demo.gif)
+![Animation of the game in action](../images/demo.gif](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/4-typing-game/images/demo.gif )
 
 **What to test in your application:**
 - **Verifies** that clicking Start displays a random quote
